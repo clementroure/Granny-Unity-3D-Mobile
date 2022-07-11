@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 7c74052634e76cb439cefc488599b5d7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object001
+    100004: Wall008
+    100006: Floor007
+    100008: Floor01
+    100010: Floor012
+    100012: Floor013
+    100014: Floor014
+    100016: Floor015
+    100018: Floor016
+    100020: Stairs1
+    100022: Wall015
+    100024: Plank
+    100026: Perila
+    400000: //RootNode
+    400002: Object001
+    400004: Wall008
+    400006: Floor007
+    400008: Floor01
+    400010: Floor012
+    400012: Floor013
+    400014: Floor014
+    400016: Floor015
+    400018: Floor016
+    400020: Stairs1
+    400022: Wall015
+    400024: Plank
+    400026: Perila
+    2100000: 01 - Default
+    2100002: 03 - Default
+    2100004: 07 - Default
+    2300000: Object001
+    2300002: Wall008
+    2300004: Floor007
+    2300006: Floor01
+    2300008: Floor012
+    2300010: Floor013
+    2300012: Floor014
+    2300014: Floor015
+    2300016: Floor016
+    2300018: Stairs1
+    2300020: Wall015
+    2300022: Plank
+    2300024: Perila
+    3300000: Object001
+    3300002: Wall008
+    3300004: Floor007
+    3300006: Floor01
+    3300008: Floor012
+    3300010: Floor013
+    3300012: Floor014
+    3300014: Floor015
+    3300016: Floor016
+    3300018: Stairs1
+    3300020: Wall015
+    3300022: Plank
+    3300024: Perila
+    4300000: Wall008
+    4300002: Object001
+    4300004: Floor01
+    4300006: Wall015
+    4300008: Stairs1
+    4300010: Floor007
+    4300012: Floor012
+    4300014: Floor013
+    4300016: Floor014
+    4300018: Floor015
+    4300020: Floor016
+    4300022: Plank
+    4300024: Perila
+    6400000: Floor007
+    6400002: Floor01
+    6400004: Floor012
+    6400006: Floor013
+    6400008: Floor014
+    6400010: Floor015
+    6400012: Floor016
+    6400014: Plank
+    6400016: Stairs1
+    6400018: Wall015
+    6400020: Perila
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.7
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.04318
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
